@@ -1,0 +1,6 @@
+
+
+Este proyecto está inspirado en todos los años que he estudiado lenguajes de programación.
+No los he estudiado todos, pues tome la  decisión de especializarme en HTML, CSS, PHP, MySQL y MariaDB.  Además de eso he estudiado a nivel avanzado la herramienta Git  para el control de versiones y el servidor Apache.  Como de costumbre me encanta leer la documentación  de estas tecnologías, lo que me ha proporcionado la posibilidad de trabajar en proyectos donde mi intervención es crear funcionalidades   específicas.  Funcionalidades que  no están por defecto en hermanitas para usuarios finales. 
+
+
