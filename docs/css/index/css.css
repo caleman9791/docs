@@ -1,3 +1,45 @@
 #user_nav {
 	/*	display: none !important;*/
 }
+
+.bg-primary,
+.btn-primary {
+	background-color: #a173dd !important
+}
+
+.btn-primary {
+	color: #fff;
+	background-color: #a173dd;
+	border-color: #a173dd;
+}
+
+.text-primary {
+	color: #a173dd !important;
+}
+
+.content .navbar .navbar-nav .nav-link:hover,
+.content .navbar .navbar-nav .nav-link.active {
+	color: #a173dd;
+}
+
+.form-check-input:checked {
+	background-color: #a173dd;
+	border-color: #a173dd;
+}
+
+.bootstrap-datetimepicker-widget table td.active,
+.bootstrap-datetimepicker-widget table td.active:hover {
+	background: #a173dd;
+}
+
+a {
+	color: #a173dd;
+	text-decoration: none;
+}
+
+.sidebar .navbar .navbar-nav .nav-link:hover,
+.sidebar .navbar .navbar-nav .nav-link.active {
+	color: #a173dd;
+	background: var(--dark);
+	border-color: #a173dd;
+}
